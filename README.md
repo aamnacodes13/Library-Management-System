@@ -11,5 +11,5 @@ List All Books: Display details of all books in the library.
 Implementation Details
 Data Structure
 
-The library uses a singly linked list to store book records. Each book is represented as a BookNode struct, which contains:
+The library uses a singly linked list to store book records. Each book is represented as a BookNode struct
 
